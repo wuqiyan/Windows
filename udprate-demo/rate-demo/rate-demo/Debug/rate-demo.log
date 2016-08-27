@@ -1,0 +1,4 @@
+﻿  ratedemo.cpp
+g:\vsfile\udprate-demo\rate-demo\rate-demo\ratedemo.cpp(61): warning C4475: 'printf' : length modifier 'll' cannot be used with type field character 'f' in format specifier
+  rate-demo.vcxproj -> G:\vsfile\udprate-demo\rate-demo\Debug\rate-demo.exe
+  rate-demo.vcxproj -> G:\vsfile\udprate-demo\rate-demo\Debug\rate-demo.pdb (Full PDB)
